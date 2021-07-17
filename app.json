@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "first-native-app",
-    "slug": "first-native-app",
-    "version": "1.0.0",
+    "name": "Axsun",
+    "slug": "Axsun",
+    "version": "1.0.1",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/logo.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#002651"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,9 +21,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#002651"
+      },
+      "package": "com.eraaxit.axitfirstreactnative"
     },
     "web": {
       "favicon": "./assets/favicon.png"
