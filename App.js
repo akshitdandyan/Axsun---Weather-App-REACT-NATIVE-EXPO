@@ -8,7 +8,7 @@ import ReloadIcon from './Components/ReloadIcon';
 import MiscDetails from './Components/MiscDetails';
 // import { WEATHER_API_KEY } from 'r';
 // console.log(WEATHER_API_KEY);
-const WEATHER_API_KEY = 'ed049ffd96a27de1320e946151836170'
+const WEATHER_API_KEY = 'YOUR_API_KEY_MAYBE'
 
 const BASE_WEATHER_URL = 'https://api.openweathermap.org/data/2.5/weather?'
 
